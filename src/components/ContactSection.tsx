@@ -47,15 +47,15 @@ const ContactSection = () => {
             <CardContent className="space-y-4">
               <div className="flex items-center gap-3">
                 <Phone className="h-5 w-5 text-muted-foreground" />
-                <span>+7 (800) 123-45-67</span>
+                <span>8 (952) 100-03-09</span>
               </div>
               <div className="flex items-center gap-3">
                 <Mail className="h-5 w-5 text-muted-foreground" />
-                <span>info@киберзащита.рф</span>
+                <span>trunk897@gmail.com</span>
               </div>
               <div className="flex items-center gap-3">
                 <MapPin className="h-5 w-5 text-muted-foreground" />
-                <span>г. Москва, ул. Примерная, д. 123</span>
+                <span>г. Воронеж</span>
               </div>
               <div className="pt-4">
                 <p className="text-sm text-muted-foreground">
